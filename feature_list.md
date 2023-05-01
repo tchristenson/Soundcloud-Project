@@ -29,7 +29,11 @@ SoundcloudClone, a Soundcloud clone, is a website for users to share songs, arti
 * Logged in users can remove their own likes from liked items.
 * All users can see how many users have liked the song, artist or group.
 
-## 5. Bonus Features
+
+## 5. Search
+* All users can search for songs, artists, and albums.
+
+## 6. Bonus Features
 
 * Users can like content.
 * Users can create playlists.
